@@ -1,0 +1,6 @@
+{
+  "name": "CodeMaster",
+  "description": "Complete Coding & Typing Learning Platform with interactive lessons, programming languages, typing academy, coding challenges, career roadmaps, AI tutor, and project lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
